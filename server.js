@@ -1,6 +1,6 @@
 const http = require('http')  // use require to import the Node.js http package
 
-const hostname = '127.0.0.1'   // set constants
+const hostname = '0.0.0.0'   // set constants
 const port = 3000
 
 const server = http.createServer((req, res) => {
