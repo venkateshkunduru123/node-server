@@ -96,5 +96,6 @@ nodemon -v
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue)
 - [js-gui-storage](https://github.com/profcase/js-gui-storage)
 - [node-server](https://github.com/denisecase/node-server)
-- [node-express](https://github.com/denisecase/node-express)
+- [node-express-app](https://github.com/denisecase/node-express-app)
 - [node-express-chat](https://github.com/denisecase/node-express-chat)
+- [node-express](https://github.com/denisecase/node-express)
